@@ -1,0 +1,9 @@
+{
+  "symbol":"ethereum.bat",
+  "name":"Basic Attention Token",
+  "module":"ethereum",
+  "mode":"ethereum.token",
+  "contract":"0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "originator":"0x3095a47305EFD248f6ce272C2dB01297A91E8C41",
+  "factor":18
+}
